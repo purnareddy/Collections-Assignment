@@ -14,7 +14,6 @@ public class TestPhoneDirectory {
 	private static Scanner reader;
 	private static Scanner scanner = new Scanner(System.in);
 	private static FileWriter f;
-//	private static FileReader fileReader;
 
 	public static void readDirectory(Map<String, ArrayList<Integer>> phoneDirectory) {
 		
